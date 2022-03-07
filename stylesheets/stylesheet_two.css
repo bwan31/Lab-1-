@@ -1,0 +1,28 @@
+body {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+p {
+    padding: 30px 20px 10px 20px;
+}
+.description {
+    letter-spacing: 2px;
+}
+
+.link2 {
+    font-size: 20px;
+    text-align: left;
+    text-indent: 50px;
+}
+
+h1 {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: whitesmoke;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: normal;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
